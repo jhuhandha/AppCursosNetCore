@@ -1,0 +1,55 @@
+﻿@model Curso
+
+<div class="intro-y col-span-12">
+    <form action="/Cursos/Curso/Guardar" method="post" enctype="multipart/form-data">
+        <div class="intro-y box">
+            <div class="flex flex-col sm:flex-row items-center p-5 border-b border-gray-200">
+                <h1>Cursos</h1>
+            </div>
+            <div class="p-5">
+                <div>
+                    <label asp-for="ImagenCarga"></label>
+                    <input asp-for="ImagenCarga" type="file" class="input w-full border mt-2" value="" />
+                    <span asp-validation-for="ImagenCarga" class="text-theme-6 mt-2"></span>
+                </div>
+                <div>
+                    <label asp-for="NombreCurso"></label>
+                    <input asp-for="NombreCurso" type="text" class="input w-full border mt-2" value="" />
+                    <span asp-validation-for="NombreCurso" class="text-theme-6 mt-2"></span>
+                </div>
+                <div>
+                    <label asp-for="CategoriaId"></label>
+                    <select asp-for="CategoriaId" class="input w-full border mt-2">
+                        <option>Seleccione</option>
+                        @foreach (Categoria item in Model.Categorias)
+                        {
+                            <option value="@item.CategoriaId">@item.NombreCategoria</option>
+                        }
+                    </select>
+                    <span asp-validation-for="CategoriaId" class="text-theme-6 mt-2"></span>
+                </div>
+                <div>
+                    <label asp-for="Duracion"></label>
+                    <input asp-for="Duracion" type="number" class="input w-full border mt-2" value="" />
+                    <span asp-validation-for="Duracion" class="text-theme-6 mt-2"></span>
+                </div>
+                <div>
+                    <label asp-for="DescripcionCurso"></label>
+                    <textarea asp-for="DescripcionCurso" type="text" class="input w-full border mt-2"></textarea>
+                    <span asp-validation-for="DescripcionCurso" class="text-theme-6 mt-2"></span>
+                </div>
+                <div>
+                    <button type="submit" class="button bg-theme-1 text-white">Guardar</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+
+
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

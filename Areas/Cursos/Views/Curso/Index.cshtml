@@ -1,0 +1,61 @@
+﻿@model DataPaginador<Curso>
+
+<h1>Hola Curso</h1>
+<a href="/Cursos/Curso/Crear">Crear</a>
+<div class="intro-y col-span-12">
+    <div class="intro-y box">
+        <form action="/Cursos/Curso" method="get">
+            <div style="width: 30%">
+                <select name="Registros">
+                    <option>2</option>
+                    <option>4</option>
+                    <option>8</option>
+                </select>
+                <input type="search" name="Search" class="input w-full border mt-2" />
+                <button type="submit" class="button">Buscar</button>
+            </div>
+        </form>
+        <div class="flex flex-col sm:flex-row items-center p-5 border-b border-gray-200">
+            <table class="table table-report">
+                <thead>
+                    <tr>
+                        <th>Código</th>
+                        <th>Imagen</th>
+                        <th>Nombre</th>
+                        <th>Categoria</th>
+                        <th>Duración</th>
+                        <th>Descripción</th>
+                        <th>Estado</th>
+                        <th>Opciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (Curso item in Model.Lista)
+                    {
+                        <tr>
+                            <td>@item.CursoId</td>
+                            <td><img width="100" src="/uploads/@item.Imagen" alt="Alternate Text" /></td>
+                            <td>@item.NombreCurso</td>
+                            <td>@item.Categoria.NombreCategoria</td>
+                            <td>@item.Duracion</td>
+                            <td>@item.DescripcionCurso</td>
+                            <td>@Html.Raw(item.Estado ? "Activo" : "Inactivo")</td>
+                            <td>
+                                <a href="/Cursos/Curso/Editar/@item.CursoId">Editar</a>
+                                <a href="/Cursos/Curso/CambiarEstado/@item.CursoId">@Html.Raw(item.Estado ? "Inactivar" : "Activar")</a>
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        @Html.Raw(Model.Pagi_info)
+        <br />
+        @Html.Raw(Model.Pagi_navegacion)
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

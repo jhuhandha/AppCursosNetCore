@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-AppWebSena-BA70BCA6-B1DB-4FF9-9083-89B0A8C4707F</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\Migrations\20200825151233_MigracionTablas.cs" />
+    <Compile Remove="Data\Migrations\20200825151233_MigracionTablas.Designer.cs" />
+    <Compile Remove="Data\Migrations\20200825151531_MigracionTablasPersona.cs" />
+    <Compile Remove="Data\Migrations\20200825151531_MigracionTablasPersona.Designer.cs" />
+    <Compile Remove="Data\Migrations\20200901183638_CursosMigration.cs" />
+    <Compile Remove="Data\Migrations\20200901183638_CursosMigration.Designer.cs" />
+    <Compile Remove="Data\Migrations\20200901184016_CursosMigration.cs" />
+    <Compile Remove="Data\Migrations\20200901184016_CursosMigration.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.5" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="NETCore.MailKit" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Cursos\Data\" />
+    <Folder Include="Areas\Panel\Controllers\" />
+    <Folder Include="Areas\Panel\Data\" />
+    <Folder Include="Areas\Panel\Models\" />
+  </ItemGroup>
+
+</Project>

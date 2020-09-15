@@ -1,0 +1,274 @@
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.StaticWebAssets.xml
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.exe
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.deps.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.runtimeconfig.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.runtimeconfig.dev.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.pdb
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.Views.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.Views.pdb
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.csprojAssemblyReference.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.AssemblyInfoInputs.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.AssemblyInfo.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.csproj.CoreCompileInputs.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.MvcApplicationPartsAssemblyInfo.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.MvcApplicationPartsAssemblyInfo.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.RazorAssemblyInfo.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.RazorAssemblyInfo.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.TagHelpers.input.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.TagHelpers.output.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.RazorCoreGenerate.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.RazorTargetAssemblyInfo.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.RazorTargetAssemblyInfo.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.Views.pdb
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.csproj.CopyComplete
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\staticwebassets\AppWebSena.StaticWebAssets.Manifest.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\staticwebassets\AppWebSena.StaticWebAssets.xml
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.pdb
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.genruntimeconfig.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.StaticWebAssets.xml
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.exe
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.deps.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.runtimeconfig.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.runtimeconfig.dev.json
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.pdb
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.Views.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\AppWebSena.Views.pdb
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.AssemblyInfoInputs.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.AssemblyInfo.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.RazorAssemblyInfo.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.RazorAssemblyInfo.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.TagHelpers.input.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.TagHelpers.output.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.RazorCoreGenerate.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.RazorTargetAssemblyInfo.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.RazorTargetAssemblyInfo.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.Views.pdb
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.csproj.CopyComplete
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\staticwebassets\AppWebSena.StaticWebAssets.Manifest.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\staticwebassets\AppWebSena.StaticWebAssets.xml
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.pdb
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.genruntimeconfig.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.csproj.CoreCompileInputs.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.MvcApplicationPartsAssemblyInfo.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.MvcApplicationPartsAssemblyInfo.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutIdentity.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\AppWebSena.csprojAssemblyReference.cache
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Cursos\Views\Curso\Index.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Cursos\Views\_ViewStart.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Panel\Views\_ViewStart.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Cursos\Views\Curso\Crear.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Cursos\Views\_ViewImports.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Cursos\Views\Curso\Editar.cshtml.g.cs
