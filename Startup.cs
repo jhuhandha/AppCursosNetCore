@@ -73,6 +73,12 @@ namespace AppWebSena
                 );
 
                 endpoints.MapAreaControllerRoute(
+                    name: "Programacion",
+                    areaName: "Programacion",
+                    pattern: "Programacion/{controller=ProgramacionCurso}/{action=Index}/{id?}"
+                );
+
+                endpoints.MapAreaControllerRoute(
                     name: "Panel",
                     areaName: "Panel",
                     pattern: "Panel/{controller=Inicio}/{action=Index}/{id?}"

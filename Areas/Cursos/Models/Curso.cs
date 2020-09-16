@@ -5,6 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
+using AppWebSena.Areas.Programacion.Models;
 
 namespace AppWebSena.Areas.Cursos.Models
 {
@@ -35,6 +36,8 @@ namespace AppWebSena.Areas.Cursos.Models
         public bool Estado { set; get; }
 
         public Categoria Categoria { set; get; }
+
+        public ICollection<ProgramacionCurso> Programaciones { set; get; }
 
         [NotMapped]
         public List<Categoria> Categorias { set; get; }

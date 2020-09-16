@@ -53,8 +53,10 @@ namespace AppWebSena.Data.Migrations
                     b.Property<int>("Duracion")
                         .HasColumnType("int");
 
+                    b.Property<bool>("Estado")
+                        .HasColumnType("bit");
+
                     b.Property<string>("Imagen")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("NombreCurso")
@@ -67,6 +69,35 @@ namespace AppWebSena.Data.Migrations
                     b.HasIndex("CategoriaId");
 
                     b.ToTable("Curso");
+                });
+
+            modelBuilder.Entity("AppWebSena.Areas.Programacion.Models.ProgramacionCurso", b =>
+                {
+                    b.Property<int>("ProgramacionId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+
+                    b.Property<int>("CursoId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Descripcion")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("Fecha")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("HoraFinal")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("HoraInicio")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ProgramacionId");
+
+                    b.HasIndex("CursoId");
+
+                    b.ToTable("ProgramacionCurso");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
@@ -274,6 +305,15 @@ namespace AppWebSena.Data.Migrations
                     b.HasOne("AppWebSena.Areas.Cursos.Models.Categoria", "Categoria")
                         .WithMany("Cursos")
                         .HasForeignKey("CategoriaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("AppWebSena.Areas.Programacion.Models.ProgramacionCurso", b =>
+                {
+                    b.HasOne("AppWebSena.Areas.Cursos.Models.Curso", "Curso")
+                        .WithMany("Programaciones")
+                        .HasForeignKey("CursoId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

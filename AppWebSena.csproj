@@ -31,6 +31,10 @@
     <Folder Include="Areas\Panel\Controllers\" />
     <Folder Include="Areas\Panel\Data\" />
     <Folder Include="Areas\Panel\Models\" />
+    <Folder Include="Areas\Programacion \Controllers\" />
+    <Folder Include="Areas\Programacion \Data\" />
+    <Folder Include="Areas\Programacion \Models\" />
+    <Folder Include="Areas\Programacion \Views\" />
   </ItemGroup>
 
 </Project>

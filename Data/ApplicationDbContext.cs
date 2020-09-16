@@ -5,6 +5,7 @@ using AppWebSena.Models;
 using AppWebSena.Areas.Cursos.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using AppWebSena.Areas.Programacion.Models;
 
 namespace AppWebSena.Data
 {
@@ -17,5 +18,6 @@ namespace AppWebSena.Data
 
         public DbSet<Categoria> Categoria { set; get; }
         public DbSet<Curso> Curso { set; get; }
+        public DbSet<ProgramacionCurso> ProgramacionCurso { set; get; }
     }
 }

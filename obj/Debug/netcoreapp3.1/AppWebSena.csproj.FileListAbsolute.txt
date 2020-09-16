@@ -272,3 +272,6 @@ D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debu
 D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Cursos\Views\Curso\Crear.cshtml.g.cs
 D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Cursos\Views\_ViewImports.cshtml.g.cs
 D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Cursos\Views\Curso\Editar.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Programacion\Views\ProgramacionCurso\Index.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Programacion\Views\_ViewImports.cshtml.g.cs
+D:\Documnetos\Visual Studio 2019\Projects\AppWebSena - copia\AppWebSena\obj\Debug\netcoreapp3.1\Razor\Areas\Programacion\Views\_ViewStart.cshtml.g.cs
